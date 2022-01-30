@@ -8,9 +8,7 @@
 
 由于是Windows下用vscode cmake+mingw64 GCC8.1.0编译，所以有一些路径设置为绝对路径。如果要在linux下编译，可将main函数里的path设定为对应path。path指的是resource路径的上一级。
 
-#### 源码细节
-
---------
+## 源码细节
 
 代码在src文件夹和include文件夹下。
 
@@ -26,17 +24,7 @@ Light：`light.hpp`。使用点光源。
 
 Camera：`camera.hpp`。里面有PerspectiveCamera是基本的针孔相机模型，DepthFieldCamera是景深相机，它接受透镜位置和物体位置和光圈大小生成光线。
 
-参数曲面：`bspline.hpp, bspline.cpp, utils.hpp`。使用17个控制点的3次B样条曲线，由于场景里做的是一个玻璃花瓶（由两层曲面和上面一个圆环，下面两个底组成），所以只需要解3次方程即可。解3次方程的实现在`utils.hpp`。方程如下：
-$$
-O_x+D_xt = f_x(\theta), O_y+D_yt=f_y(\theta), O_z+D_zt=z
-$$
-其中$\theta,t,z$需要在一定的范围。$O,D,f$分别是光线的原点、光线的方向、曲线的函数。由于B样条是分段函数，所以在具体实现上是每4个控制点组成一个单独的Object计算。首先通过前两个方程可以把$\theta$解出来，然后再判断$\theta,t,z$是否合法。3次方程的求解使用先计算判别式再使用三角函数和反三角函数的计算方法。
-
-圆环的实现方法是定一个曲线内部的点，然后将曲线向这个点收缩一定比例。由于圆环设定为与xy平面平行，可以先算出x,y,z坐标，再判定是否有交点。这个新的方程如下：
-$$
-x = f_x(\theta)\beta, y=f_y(\theta)\beta
-$$
-仍然需要解一个三次方程，不过判定条件有所不同。
+参数曲面：`bspline.hpp, bspline.cpp, utils.hpp`。使用17个控制点的3次B样条曲线，由于场景里做的是一个玻璃花瓶（由两层曲面和上面一个圆环，下面两个底组成），所以只需要解3次方程即可。解3次方程的实现在`utils.hpp`。
 
 SPPM：`sppmhit.cpp, scene.hpp, scene.cpp, main.cpp`。SPPM的算法由Scene和main函数本身实现。main函数里每个round里实现两个pass，一开始先设定捕捉光子的范围，对于第一个pass，它发射相机光线，调用Scene::trace，将命中点储存在real_sppmhits。然后它调用Scene::buildHashGrid建立hash grid。然后到第二个pass，它发射1e6个光子，光子每到一个漫反射面就调用Scene::updateHit更新命中点参数。每个round的最后使用real_sppmhits更新sppmhit，将颜色做平均。
 

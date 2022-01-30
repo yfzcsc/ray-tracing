@@ -1,0 +1,19 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v4.1.0)
+
+newmtl Cover
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ka 0 0 0
+Ks 1 1 1
+Ns 50
+illum 2
+map_Kd *0
+
+newmtl Pages
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ka 0 0 0
+Ks 1 1 1
+Ns 50
+illum 2
+map_Kd *1
+

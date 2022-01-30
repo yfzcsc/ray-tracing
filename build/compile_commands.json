@@ -1,0 +1,72 @@
+[
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\bspline.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\bspline.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/bspline.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\group.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\group.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/group.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\image.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\image.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/image.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\main.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\main.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/main.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\material_read.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\material_read.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/material_read.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\mesh.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\mesh.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/mesh.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\scene.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\scene.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/scene.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Matrix2f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Matrix2f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Matrix2f.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Matrix3f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Matrix3f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Matrix3f.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Matrix4f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Matrix4f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Matrix4f.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Quat4f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Quat4f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Quat4f.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Vector2f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Vector2f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Vector2f.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Vector3f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Vector3f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Vector3f.cpp"
+},
+{
+  "directory": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/PROJ.dir/includes_CXX.rsp -fopenmp -O3 -Wl,--stack=1024000000 -g -std=gnu++11 -o CMakeFiles\\PROJ.dir\\src\\vecmath\\Vector4f.cpp.obj -c C:\\Users\\yfz\\Desktop\\data\\Plan\\homework\\ComputerGraphics\\proj\\code\\src\\vecmath\\Vector4f.cpp",
+  "file": "C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/src/vecmath/Vector4f.cpp"
+}
+]

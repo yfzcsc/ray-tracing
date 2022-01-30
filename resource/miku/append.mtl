@@ -1,0 +1,189 @@
+# Blender MTL File: 'None'
+# Material Count: 17
+
+newmtl body00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_MikuAp.ppm
+map_d body00_MikuAp.ppm
+
+newmtl body01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body01_MikuAp.ppm
+map_d body01_MikuAp.ppm
+
+newmtl body02
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body02_MikuAp.ppm
+map_d body02_MikuAp.ppm
+
+newmtl body_green
+Ns 198.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.720000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body01_MikuAp.ppm
+map_d body01_MikuAp.ppm
+
+newmtl body_green2
+Ns 198.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.720000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body02_MikuAp.ppm
+map_d body02_MikuAp.ppm
+
+newmtl body_pink
+Ns 223.529412
+Ka 0.000000 0.000000 0.000000
+Kd 0.560000 0.144000 0.344000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body01_MikuAp.ppm
+map_d body01_MikuAp.ppm
+
+newmtl cheek
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.ppm
+map_d face_MikuAp.ppm
+
+newmtl eye_hi
+Ns 203.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.640000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.ppm
+map_d face_MikuAp.ppm
+
+newmtl eye_hi2
+Ns 198.039216
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.640000 0.560000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.ppm
+map_d face_MikuAp.ppm
+
+newmtl face00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.ppm
+map_d face_MikuAp.ppm
+
+newmtl face01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.ppm
+map_d face_MikuAp.ppm
+
+newmtl hair00
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hair_MikuAp.ppm
+map_d hair_MikuAp.ppm
+
+newmtl hair01
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd hair_MikuAp.ppm
+map_d hair_MikuAp.ppm
+
+newmtl hairshadow
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd face_MikuAp.ppm
+map_d face_MikuAp.ppm
+
+newmtl lens
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body02_MikuAp.ppm
+map_d body02_MikuAp.ppm
+
+newmtl skin
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd body00_MikuAp.ppm
+map_d body00_MikuAp.ppm
+
+newmtl wing
+Ns 200.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.320000 0.720000 0.480000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd wing_MikuAp.ppm
+map_d wing_MikuAp.ppm

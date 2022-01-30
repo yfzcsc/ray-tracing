@@ -1,3 +1,0 @@
-C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build/CMakeFiles/PROJ.dir
-C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build/CMakeFiles/edit_cache.dir
-C:/Users/yfz/Desktop/data/Plan/homework/ComputerGraphics/proj/code/build/CMakeFiles/rebuild_cache.dir
